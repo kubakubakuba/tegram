@@ -1,0 +1,12 @@
+.venv
+__pycache__
+media
+
+*.mp4
+*.png
+*.jpg
+*.jpeg
+*.m4a
+*.mp3
+*.CR2
+*.PPM
