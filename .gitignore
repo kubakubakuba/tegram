@@ -10,3 +10,8 @@ media
 *.mp3
 *.CR2
 *.PPM
+*.ppm
+*.tiff
+*.tif
+*.bmp
+*.webp
